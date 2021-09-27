@@ -1,2 +1,0 @@
-# Todolist
-untuk mencatat aktivitas
