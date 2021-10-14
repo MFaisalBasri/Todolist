@@ -1,0 +1,5 @@
+Hallo,salam kenal nama saya faisal dari Bekasi
+
+Resolusi saya:
+- membuat website menggunakan Framework PHP
+- Bekerja di start-up
