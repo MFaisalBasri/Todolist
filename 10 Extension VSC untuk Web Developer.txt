@@ -1,0 +1,12 @@
+1. Sublime text keymap
+2. Open in Browser
+3. Live server
+4. Auto rename tag
+5. CSS peek
+6. Indent rainbow
+7. Bracket pair colorizer
+8. Beautify (setting->text editor->formatting->format on save)
+9. PHP intellisense
+10. One dark pro
+
+ctrl+p = untuk mencari file
