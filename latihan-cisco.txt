@@ -135,6 +135,16 @@ int se0/1/0
 ip address 20.20.20.2 255.255.255.252
 no sh
 
+SETING ROUTE (Default Route):
+en
+conf t
+ip route 0.0.0.0 0.0.0.0 12.0.0.2
+
+ROUTER OSPF
+router ospf 1
+network 192.168.10.64 0.0.0.31 area 0 (/27)
+network 10.10.10.0 0.0.0.3 area 0 (/30)
+
 router bgp 100
 network 10.10.10.0 mask 255.255.255.252
 network 20.20.20.0 mask 255.255.255.252
